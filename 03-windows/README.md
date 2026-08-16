@@ -32,11 +32,3 @@ Example:
 
 ```text
 C:\Users\Username\Documents
-cd
-dir
-dir
-cd
-mkdir
-copy
-move
-del
