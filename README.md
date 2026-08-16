@@ -14,8 +14,8 @@ This repository documents my cybersecurity learning journey, practical exercises
 - [x] Computer Fundamentals
 - [x] Operating Systems Basics
 - [x] Linux CLI Basics
-- [ ] Windows CLI Basics
-- [ ] Operating System Security
+- [x] Windows CLI Basics
+- [x] Operating System Security
 - [ ] Software Basics
 - [ ] Networking Fundamentals
 - [ ] How the Web Works
