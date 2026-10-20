@@ -23,10 +23,11 @@ This repository documents my cybersecurity learning journey, practical exercises
 
 ### TryHackMe Cyber Security 101 — In Progress
 
-- [x] Windows PowerShell room
-- [ ] Continue with the next room in the learning path
+- [x] Start Your Cyber Security Journey — modules completed
+- [x] Windows PowerShell (Command Line section)
+- [ ] Command Line — Linux command line (currently studying)
 
-**Current focus:** Continue Cyber Security 101, practise each topic, and document completed work. SEC0 revision/exam remains a separate planned milestone.
+**Current focus:** Command Line — Linux command line. I am continuing Cyber Security 101 one section at a time and documenting completed learning as I progress. SEC0 revision/exam remains a separate planned milestone.
 
 ## Next Learning Path
 
@@ -44,7 +45,7 @@ The focus is to build strong fundamentals first and then progress toward practic
 
 ### Systems
 
-- Linux command line
+- Linux command line (currently studying in Cyber Security 101)
 - Windows command line
 - Windows PowerShell fundamentals
 - Operating system fundamentals
@@ -108,6 +109,7 @@ Examples include:
 - Linux command-line investigations
 - Windows command-line exercises
 - Windows PowerShell practice: process/service inspection, module/repository commands, and connectivity troubleshooting
+- Cyber Security 101: completed the modules under Start Your Cyber Security Journey; currently studying Linux command line
 - Networking labs
 - DHCP and DNS exercises
 - ARP and TCP concepts
@@ -124,7 +126,7 @@ Sensitive information such as passwords, flags, tokens, credentials, private key
 - Cisco Introduction to Cybersecurity — Completed
 - TryHackMe Pre Security — Completed
 - TryHackMe SEC0 — Revision / Exam Pending
-- TryHackMe Cyber Security 101 — In progress; Windows PowerShell room completed
+- TryHackMe Cyber Security 101 — In progress; Start Your Cyber Security Journey modules completed; currently studying Linux command line
 - TryHackMe Security Analyst Level 1 (SAL1) — Planned
 - CompTIA Security+ — Planned
 - TryHackMe Security Analyst Level 2 (SAL2) — Planned
@@ -156,4 +158,4 @@ I am building this portfolio alongside my practical learning.
 
 The goal is not simply to collect certificates. Each section records concepts learned, practical exercises completed, and how the knowledge connects to real cybersecurity work.
 
-**Current status: Pre Security completed; Cyber Security 101 in progress; Windows PowerShell room completed.**
+**Current status: Pre Security completed; Cyber Security 101 in progress; Start Your Cyber Security Journey completed; currently studying Linux command line.**
