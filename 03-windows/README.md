@@ -1,4 +1,4 @@
-# Windows CLI Basics
+# Windows CLI and PowerShell
 
 ## Overview
 
@@ -89,6 +89,47 @@ Command-line skills can help analysts:
 
 These commands are basic administrative and investigation tools. More advanced Windows security investigation will be covered later as I progress toward Security Analyst/SOC training.
 
+## Windows PowerShell — TryHackMe Cyber Security 101
+
+**Status: Completed the Windows PowerShell room.**
+
+PowerShell is a command-line shell and scripting environment used to administer and inspect Windows systems. During this beginner learning, I practised PowerShell commands and explored module/repository-related commands.
+
+Examples covered during practice:
+
+```powershell
+Get-Process
+Get-Service
+Get-Module -ListAvailable
+Get-PSRepository
+Find-Module
+Test-NetConnection
+```
+
+- `Get-Process` lists processes.
+- `Get-Service` lists Windows services.
+- `Get-Module -ListAvailable` lists modules available on the system.
+- `Get-PSRepository` displays registered PowerShell repositories.
+- `Find-Module` searches for modules in a repository.
+- `Test-NetConnection` tests connectivity to a host and port.
+
+### Troubleshooting note
+
+During the lab, a connection test to PowerShell Gallery on TCP port 443 returned `TcpTestSucceeded: False`. The repository was registered, but the connection test failed. Successful module download or installation was **not** confirmed.
+
+## Cybersecurity Relevance
+
+PowerShell can help an analyst identify the current user and computer, inspect processes and services, check module/repository configuration, and troubleshoot network connectivity. A process or service should not be labelled malicious based on its name alone; findings need context and corroborating evidence.
+
+## Key Lessons
+
+- Windows Command Prompt and PowerShell are different command-line environments.
+- PowerShell commands commonly use a verb-noun naming convention, such as `Get-Process`.
+- `Get-Process` and `Get-Service` inspect processes and services.
+- A failed connectivity test does not by itself prove that a repository or module is unavailable.
+- Lab results should be documented accurately, including errors and limitations.
+
 ## Status
 
-**Completed**
+- Windows CLI Basics — Completed
+- Windows PowerShell (TryHackMe Cyber Security 101) — Completed
