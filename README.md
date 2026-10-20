@@ -21,14 +21,19 @@ This repository documents my cybersecurity learning journey, practical exercises
 - [x] How the Web Works
 - [x] Attacks and Defenses
 
-**Current focus:** Preparing for the TryHackMe SEC0 certification through structured revision and practice assessments.
+### TryHackMe Cyber Security 101 — In Progress
+
+- [x] Windows PowerShell room
+- [ ] Continue with the next room in the learning path
+
+**Current focus:** Continue Cyber Security 101, practise each topic, and document completed work. SEC0 revision/exam remains a separate planned milestone.
 
 ## Next Learning Path
 
 My planned progression is:
 
 1. **SEC0 — Pre Security Certification**
-2. **SEC1 — Cyber Security 101**
+2. **SEC1 — Cyber Security 101** (in progress)
 3. **SAL1 — Security Analyst Level 1**
 4. **CompTIA Security+**
 5. **SAL2 — Security Analyst Level 2**
@@ -41,6 +46,7 @@ The focus is to build strong fundamentals first and then progress toward practic
 
 - Linux command line
 - Windows command line
+- Windows PowerShell fundamentals
 - Operating system fundamentals
 - System security
 - Authentication and authorisation
@@ -101,6 +107,7 @@ Examples include:
 
 - Linux command-line investigations
 - Windows command-line exercises
+- Windows PowerShell practice: process/service inspection, module/repository commands, and connectivity troubleshooting
 - Networking labs
 - DHCP and DNS exercises
 - ARP and TCP concepts
@@ -117,7 +124,7 @@ Sensitive information such as passwords, flags, tokens, credentials, private key
 - Cisco Introduction to Cybersecurity — Completed
 - TryHackMe Pre Security — Completed
 - TryHackMe SEC0 — Revision / Exam Pending
-- TryHackMe Cyber Security 101 (SEC1) — Planned
+- TryHackMe Cyber Security 101 — In progress; Windows PowerShell room completed
 - TryHackMe Security Analyst Level 1 (SAL1) — Planned
 - CompTIA Security+ — Planned
 - TryHackMe Security Analyst Level 2 (SAL2) — Planned
@@ -149,4 +156,4 @@ I am building this portfolio alongside my practical learning.
 
 The goal is not simply to collect certificates. Each section records concepts learned, practical exercises completed, and how the knowledge connects to real cybersecurity work.
 
-**Current status: Pre Security completed — SEC0 revision in progress.**
+**Current status: Pre Security completed; Cyber Security 101 in progress; Windows PowerShell room completed.**
